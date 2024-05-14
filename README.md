@@ -6,3 +6,5 @@
 3) Переходим в папку с проектом: ``` cd sportswear_shop ```
 4) Далее запускаем сервер командой: ``` python3 manage.py runserver ```
 
+Недостающая часть проекта: https://drive.google.com/drive/folders/1onb1MWUohxoK55x0vKzeAvMk9_3IMeBg?usp=sharing
+
